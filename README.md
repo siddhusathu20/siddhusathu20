@@ -1,5 +1,5 @@
-Hi, I'm Siddharth Jai Gokulan!
-I'm an aspiring teenage writer and game designer! Check out my works right here!
+Hi, I'm Siddharth! Welcome to my GitHub page!
+...what, were you expecting something else?
 
 <!---
 siddhusathu20/siddhusathu20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
